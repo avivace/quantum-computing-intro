@@ -4,35 +4,47 @@ Afternotes and exercises on the *Practical introduction to quantum computing: fr
 
 Slides and course material can be found [here](https://indico.cern.ch/event/970903/).
 
-- [Lesson 1: Introduction](notes/1.md) - November 6
-	+ What is quantum computing? 
-	+ Applications of quantum computing.
-	+ Hardware and software for quantum computing.
-	+ Elements of the quantum circuit model.
-	+ Introduction to the IBM Quantum Experience.
+- **[Lesson 1: Introduction](notes/1.md)** - November 6
+	+ Resources: 
+		+ [VOD](https://indico.cern.ch/event/970903/attachments/2136822/3610772/go)
+		+ [Notebook](https://indico.cern.ch/event/970903/attachments/2136822/3599300/1.-Hello%2C%20quantum%20world%21%20in%20Qiskit.ipynb)
+		+ [Slides](https://indico.cern.ch/event/970903/attachments/2136822/3599305/PIQC%20Lecture%201.pdf)
+		+ [Recommended books](https://indico.cern.ch/event/970903/attachments/2136822/3609946/Recommended%20books%20and%20resources.pdf)
+	+ Contents:
+		+ What is quantum computing? 
+		+ Applications of quantum computing.
+		+ Hardware and software for quantum computing.
+		+ Elements of the quantum circuit model.
+		+ Introduction to the IBM Quantum Experience.
 - Lesson 2: One and two-qubit systems (Part 1) - November 13
-	+ Quantum key distribution with the BB84 protocol.
-	+ Two-qubit gates.
-	+ The CHSH game. 
+	+ Contents:
+		+ Quantum key distribution with the BB84 protocol.
+		+ Two-qubit gates.
+		+ The CHSH game. 
 - Lesson 3: One and two-qubit systems (Part 2) - November 20
-	+ Quantum teleportation.
-	+ Superdense coding.
-	+ Deutsch algorithm.     
+	+ Contents:
+		+ Quantum teleportation.
+		+ Superdense coding.
+		+ Deutsch algorithm.     
 - Lesson 4: Multiqubit systems - November 27
-	+ Multiqubit gates and universality.
-	+ Quantum parallelism.
-	+ Deutsch-Jozsa algorithm.
-	+ Grover algorithm.
-	+ Shor algorithm.
-	+ HHL algorithm. 
+	+ Contents:
+		+ Multiqubit gates and universality.
+		+ Quantum parallelism.
+		+ Deutsch-Jozsa algorithm.
+		+ Grover algorithm.
+		+ Shor algorithm.
+		+ HHL algorithm. 
 - Lesson 5: Quantum algorithms for combinatorial optimization - December 4
-	+ Quantum adiabatic computing and quantum annealing.
-	+ Introduction to D-Wave Leap. 
-	+ Quantum Approximate Optimization Algorithm. 
+	+ Contents:
+		+ Quantum adiabatic computing and quantum annealing.
+		+ Introduction to D-Wave Leap. 
+		+ Quantum Approximate Optimization Algorithm. 
 - Lesson 6: Quantum variational algorithms and quantum machine learning - December 11
-	+ Variational Quantum Eigensolver.
-	+ Introduction to Quantum Machine Learning (QSVM, QGAN, Quantum Classifiers...)
+	+ Contents:
+		+ Variational Quantum Eigensolver.
+		+ Introduction to Quantum Machine Learning (QSVM, QGAN, Quantum Classifiers...)
 - Lesson 7: The future of quantum computing - December 18
-	+ Quantum error correction.
-	+ What is Quantum Supremacy?
-	+ Prospects for quantum computing. 
+	+ Contents:
+		+ Quantum error correction.
+		+ What is Quantum Supremacy?
+		+ Prospects for quantum computing. 
