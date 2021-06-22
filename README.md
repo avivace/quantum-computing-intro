@@ -48,3 +48,11 @@ Slides and course material can be found [here](https://indico.cern.ch/event/9709
 		+ Quantum error correction.
 		+ What is Quantum Supremacy?
 		+ Prospects for quantum computing. 
+
+## Additional resources
+
+- [CERN Openlab talk by F.Carminati: Quantum Computing for High Energy Physics Applications](https://cds.cern.ch/record/2681989)
+- EP-IT Data science seminars
+  - [Quantum Machine Learning](https://indico.cern.ch/event/975609/)
+- Academic Training Lectures
+  - [https://indico.cern.ch/event/870515/](https://indico.cern.ch/event/870515/)
