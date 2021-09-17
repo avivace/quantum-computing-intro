@@ -55,4 +55,4 @@ Slides and course material can be found [here](https://indico.cern.ch/event/9709
 - EP-IT Data science seminars
   - [Quantum Machine Learning](https://indico.cern.ch/event/975609/)
 - Academic Training Lectures
-  - [https://indico.cern.ch/event/870515/](https://indico.cern.ch/event/870515/)
+  - [Introduction to Quantum Computing](https://indico.cern.ch/event/870515/) by Heather Gray (LBNL)
